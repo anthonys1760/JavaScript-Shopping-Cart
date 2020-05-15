@@ -1,5 +1,6 @@
 # Online Shopping Cart
-![title-pic]()
+
+![title-pic](responsive.png)
 
 With this app you can track your running, jogging or walking miles.
 
@@ -11,7 +12,7 @@ With this app you can track your running, jogging or walking miles.
 ## Steps to execute this App:
 - Download the entire code 
 - Open up the index.html.
-- [View Live Site]()
+- [View Live Site](https://anthonys1760.github.io/JavaScript-Shopping-Cart/)
 
 ## Technologies used: 
 - HTML
