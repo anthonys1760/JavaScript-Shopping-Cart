@@ -2,7 +2,7 @@
 
 ![title-pic](responsive.png)
 
-With this app you can track your running, jogging or walking miles.
+Shop online and purchase your favorite items from your favorite store!
 
 ## Project Specifications
 
